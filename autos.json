@@ -1,0 +1,72 @@
+[
+    {
+        "__class__": "autonuevo",
+        "__atributos__": {
+            "modelo": "for",
+            "cantP": "5",
+            "color": "marron",
+            "precioB": "234444",
+            "marca": "ford",
+            "version": "full"
+        }
+    },
+    {
+        "__class__": "autonuevo",
+        "__atributos__": {
+            "modelo": "focus",
+            "cantP": 4,
+            "color": "rojo",
+            "precioB": 4900000,
+            "marca": "ford",
+            "version": "base"
+        }
+    },
+    {
+        "__class__": "autonuevo",
+        "__atributos__": {
+            "modelo": "fiesta",
+            "cantP": 4,
+            "color": "azul",
+            "precioB": 5000000,
+            "marca": "ford",
+            "version": "full"
+        }
+    },
+    {
+        "__class__": "autousado",
+        "__atributos__": {
+            "modelo": "pio",
+            "cantP": 4,
+            "color": "azul",
+            "precioB": 2431512,
+            "marca": "toyota",
+            "patente": "ACSF4235",
+            "anio": 2016,
+            "kilometraje": 100024
+        }
+    },
+    {
+        "__class__": "autousado",
+        "__atributos__": {
+            "modelo": "fio",
+            "cantP": 4,
+            "color": "rojo",
+            "precioB": 350000,
+            "marca": "ford",
+            "patente": "456ABCS",
+            "anio": 2015,
+            "kilometraje": 103401
+        }
+    },
+    {
+        "__class__": "autonuevo",
+        "__atributos__": {
+            "modelo": "focus",
+            "cantP": "4",
+            "color": "rojo",
+            "precioB": "440000",
+            "marca": "ford",
+            "version": "full"
+        }
+    }
+]
